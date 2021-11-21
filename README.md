@@ -8,4 +8,6 @@
 
 *** When all parameters have been defined, the password will appear within the password box.
 
+** Website Link https://gavin1331.github.io/Password-Generator/
+
 ** Technologies Used: HTML5, CSS3, JavaScript
